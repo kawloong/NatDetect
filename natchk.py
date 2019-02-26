@@ -82,12 +82,12 @@ import socket
 import json
 import sys
 
-s1_ip='162.219.126.121'
+s1_ip='cn.cppcloud.cn'
 s1_port1=17770 # listen and recv+resp
 s1_port2=17771 # listen and recv+resp
 s1_port3=18770 # sendto
 
-s2_ip='183.60.124.69'
+s2_ip='usa.cppcloud.cn'
 s2_port1=27770 # listen for s1 notify; 
 s2_port2=27771 # sendto
 s2_port3=28770 # listen and recv+resp # check Symmetric (Last)
