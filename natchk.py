@@ -52,7 +52,7 @@ c         S1:P1        S1:P2       S1:P3                 S2:P1        S2:P2     
 响应的rStep(程序内的标识响应的身份)与上面时序标号关系:
 rStep1 <---> 8
 rStep2 <---> 7
-rStep3 <---> 3
+rStep3 <---> 6
 rStep4 <---> 9
 rStep5 <---> 11
 
